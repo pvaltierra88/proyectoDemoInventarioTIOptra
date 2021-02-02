@@ -1,1 +1,1 @@
-Esta es una prueba de la credcoin de un archivo para git 
+Esta es una prueba de la creacion de un archivo para git 
